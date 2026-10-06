@@ -5,7 +5,7 @@
 *Date: 06-10-2026
 *
 *Problem Statement:
-Search in a sorted array using binary search.
+*Search in a sorted array using binary search.
 */
 
 #include <stdio.h>
