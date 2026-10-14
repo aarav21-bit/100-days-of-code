@@ -2,7 +2,7 @@
 *Name: Aarav Deshlehra
 *Roll: 590041873
 *Day: 39 Que:1
-*Date: 14-10-2026
+*Date: 15-10-2026
 *
 *Problem Statement:
 *Check if the elements on the diagonal of a matrix are distinct.
