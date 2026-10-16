@@ -2,7 +2,7 @@
 *Name: Aarav Deshlehra
 *Roll: 590041873
 *Day: 39 Que:2
-*Date: 14-10-2026
+*Date: 15-10-2026
 *
 *Problem Statement:
 *Find the sum of main diagonal elements for a square matrix..
